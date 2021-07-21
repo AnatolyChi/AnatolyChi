@@ -4,9 +4,9 @@ I'm beginner Java developer. Know Java SE/EE.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=AnatolyChi&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=AnatolyChi&show_icons=true&count_private=true"/></a>
+       <img height=140 src="https://github-readme-stats.vercel.app/api?username=AnatolyChi&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AnatolyChi/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyChi&layout=compact"/></a>
+       <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyChi&layout=compact"/></a>
 </p>
 
 <p align='center'>
