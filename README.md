@@ -21,14 +21,12 @@ I'm beginner Java developer. Know Java SE/EE.
 </p>
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Java languages
+*   MySQL, PostgreSQL
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Jdbc template
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AnatolyChi/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=AnatolyChi&color=DE002D">
+       <img width="150px" src="https://komarev.com/ghpvc/?username=AnatolyChi&color=DE002D">
    </a>
 </div>
