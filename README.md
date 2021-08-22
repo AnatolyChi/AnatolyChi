@@ -17,7 +17,7 @@ I'm beginner Java developer. Know Java SE/EE.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:soulless_beast@icloud.com'>soulless_beast@icloud.com</a>
+   📫 How to reach me: <a href='mailto:soulless_beast@icloud.com'>anatoly.chykiliou@icloud.com</a>
 </p>
 
 ## 🛠 Technical Stack
