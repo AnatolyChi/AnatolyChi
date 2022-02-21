@@ -13,7 +13,7 @@ I'm beginner Java developer. Know Java SE/EE.
    <a href="#">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/TolyaCh">
+   <a href="https://t.me/TolyaChk">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
