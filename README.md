@@ -1,6 +1,6 @@
 ### Hi, i'm Tolya 👋
 
-I'm beginner Java developer. Know Java SE/EE.
+I am an experienced Java/Kotlin developer with last job experience where I coded with WebFlux, Spring and used RabbitMQ, Kafka, Hibernate and Jenkins. My work included creating high-performance applications, managing data, and integrating various systems. I also have experience in using Agile methodologies and can work in a team.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=AnatolyChi&show_icons=true&count_private=true">
@@ -21,9 +21,24 @@ I'm beginner Java developer. Know Java SE/EE.
 </p>
 
 ## 🛠 Technical Stack
-*   Java languages
-*   MySQL, PostgreSQL
-*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Jdbc template
+* Java Core
+* Java EE
+* Kotlin
+* SQL
+* JOOQ
+* Spring Boot
+* Hibernate
+* SAP Hybris
+* Maven
+* Gradle
+* Git
+* WebFlux
+* Project Reactor
+* JUnit
+* Jenkins
+* Docker
+* Rabbit
+* Kafka
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AnatolyChi/github-profile-views-counter">
