@@ -3,7 +3,7 @@
 I am an experienced Java/Kotlin developer with last job experience where I coded with WebFlux, Spring and used RabbitMQ, Kafka, Hibernate and Jenkins. My work included creating high-performance applications, managing data, and integrating various systems. I also have experience in using Agile methodologies and can work in a team.
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/anatoly-chykiliou-2ba78521a/">
+   <a href="[https://www.linkedin.com/in/anatoly-chykiliou-2ba78521a/](https://www.linkedin.com/in/anatoly-chykiliou-2ba78521a/)">
        <img height=140 src="https://github-readme-stats.vercel.app/api?username=AnatolyChi&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AnatolyChi/github-readme-stats">
        <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyChi&layout=compact"/></a>
